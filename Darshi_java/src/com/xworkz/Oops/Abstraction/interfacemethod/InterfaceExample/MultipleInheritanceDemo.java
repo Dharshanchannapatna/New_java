@@ -10,3 +10,7 @@ public class MultipleInheritanceDemo {
 	}
 
 }
+/*
+ petrol tax is 10rs
+electriccity tax is 5rs
+*/
